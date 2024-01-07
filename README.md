@@ -30,7 +30,7 @@ En esta tercera foto, presta atención:
 
 ### Login Propio
 
-En caso de que requiera usar un login propio, deberá activar la autenticación del cliente. Esta es otra configuración. Lo demás lo dejamos como está predeterminado.
+En caso de que requiera usar un login propio, deberá activar la autenticación del cliente y servicio por roles. Esta es otra configuración. Lo demás lo dejamos como está predeterminado.
 
 ### Creación de Usuarios
 
